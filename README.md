@@ -38,7 +38,7 @@ No test required.
 
 ## Usage
 
-Follow [this link](#) to the portfolio.
+Follow [this link](#) to the deployed web-app.
 
 ## License
 
